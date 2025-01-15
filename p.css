@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -109,7 +109,7 @@ footer .social-media a {
     text-decoration: none;
 }
 
-/* Responsive Styles */
+
 @media (max-width: 768px) {
     .nav-links {
         display: none;
